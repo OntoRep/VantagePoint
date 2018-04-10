@@ -1,4 +1,4 @@
-# VantagePoint Visualization tool
+# VantagePoint Smarthome Semantic Visualization Tool
 
 More info in readMe!.rtf file inside VantagePoint_public.zip file. 
 
