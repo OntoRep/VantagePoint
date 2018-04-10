@@ -1,6 +1,6 @@
 # VantagePoint Visualization tool
 
-More info in .zip file. 
+More info in readMe!.rtf file inside VantagePoint_public.zip file. 
 
 ## References
 
